@@ -1,9 +1,9 @@
-if (userPassword === ADMIN_PASSWORD) {
+/*if (userPassword === ADMIN_PASSWORD) {
     message = ACCESS_IS_ALLOWED;} else if (userPassword === null) {
     message = CANCELED_BY_USER;
   } else {
     message = ACCESS_DENIED;
-  }
+  }*/
 
 //если userPassword равно 'jqueryismyjam' 
 // то значение message будет равно
