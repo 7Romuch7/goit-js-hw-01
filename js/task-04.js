@@ -1,4 +1,4 @@
-const orderPieces = 1;
+/*const orderPieces = 1;
 
 const credits = 23580;
 const pricePerDroid = 3000;
@@ -46,4 +46,4 @@ if (quantity === null) {
     message = totalPrice;
 }
 
-console.log(quantity);
+console.log(quantity);*/
