@@ -33,17 +33,12 @@ console.log(message);*/
 // то значение message будет равно
 // 'Недостаточно средств на счету!'
 
-/*const credits = 23580;
+const credits = 23580;
 const pricePerDroid = 3000;
 const quantity = prompt(`Введите количество товаров`);
 const CANCELED_BY_USER = 'Отменено пользователем!';
 
 let totalPrice = quantity * pricePerDroid;
 
-if (quantity === null) {
-    message = CANCELED_BY_USER;
-} else if (quantity * pricePerDroid) {
-    message = totalPrice;
-}
 
-console.log(quantity);*/
+console.log('Отменено пользователем!');
