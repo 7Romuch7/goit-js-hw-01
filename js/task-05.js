@@ -1,7 +1,7 @@
-/*const countryName = "Китай";
+/*const countryName = prompt (`Укажите страну доставки товара`);
 
 const CANCELED_BY_USER = 'Отменено пользователем!';
-const NO_DELIVERY = 'В выбранную страну доставка недоступна.';
+const NO_DELIVERY = 'В вашей стране доставка недоступна';
 const CHINA = 'Китай';
 const AUSTRALIA = 'Австралия';
 const INDIA = 'Индия';
@@ -35,4 +35,4 @@ if (price > 0) {
   message = `Доставка в ${country} будет стоить ${price} кредитов`;
 }
 
-console.log(message);*/
+alert(message);*/
